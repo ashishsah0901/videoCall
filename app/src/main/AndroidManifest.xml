@@ -37,7 +37,7 @@
                 <category android:name="android.intent.category.BROWSABLE" />
                 <category android:name="android.intent.category.DEFAULT" />
 
-                <data android:scheme="db-n56d7jda2u1d4f2" />
+                <data android:scheme="db-APP_KEY" />
             </intent-filter>
         </activity>
     </application>
